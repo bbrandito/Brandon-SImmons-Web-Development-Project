@@ -1,0 +1,12 @@
+html{background-color: black}
+html{color: floralwhite}
+html{font-family: "Lucida Console", Courier, monospace;}
+
+h3{font-size: 10px}
+h3{color: dimgray}
+h3:hover{color: crimson}
+
+a{color: floralwhite}
+a{text-decoration: none}
+a:hover{color: crimson}
+
